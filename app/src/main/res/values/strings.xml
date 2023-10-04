@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">University</string>
+    <string name="profile">profile</string>
+    <string name="address_home">Singgahan,\nTuban,\nJawa Timur,\n62361</string>
+    <string name="street">Jl.Panglima Sudirman</string>
+    <string name="address">Address</string>
+    <string name="noPhone">+6285330533113</string>
+    <string name="noMobile">Number Phone</string>
+    <string name="nameEmail">aldhisaputra795@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="aldhi_saputra">Aldhi Saputra</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name_university">Name University</string>
+    <string name="description">description</string>
 </resources>
