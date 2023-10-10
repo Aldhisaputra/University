@@ -56,8 +56,8 @@
 
 
     </RelativeLayout>
-    <com.google.android.material.imageview.ShapeableImageView
-        android:src="@drawable/college"
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:src="@drawable/fotoku"
         android:elevation="15dp"
         android:padding="5dp"
         android:layout_centerHorizontal="true"
