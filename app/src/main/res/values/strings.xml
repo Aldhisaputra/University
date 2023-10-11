@@ -15,6 +15,18 @@
 
     <string-array name="data_name">
         <item>Binus</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Teknologi Sepuluh Nopember</item>
+        <item>Telkom University</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Negeri Surabaya</item>
+        <item>Universitas Negeri Jakarta</item>
+        <item>Universitas Negeri Yogyakarta</item>
+        <item>Unuversity Pendidikan Indonesia</item>
     </string-array>
 
     
