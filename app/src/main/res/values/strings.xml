@@ -12,4 +12,10 @@
     <string name="my_profile">My Profile</string>
     <string name="name_university">Name University</string>
     <string name="description">description</string>
+
+    <string-array name="data_name">
+        <item>Binus</item>
+    </string-array>
+
+    
 </resources>
