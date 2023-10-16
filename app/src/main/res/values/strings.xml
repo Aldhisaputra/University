@@ -12,6 +12,7 @@
     <string name="my_profile">My Profile</string>
     <string name="name_university">Name University</string>
     <string name="description">description</string>
+    <string name="back">Back</string>
 
     <string-array name="name_univerity">
         <item>Binus</item>

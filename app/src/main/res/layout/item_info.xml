@@ -43,7 +43,7 @@
                         android:layout_weight="1"
                         android:gravity="center"
                         android:text="@string/aldhi_saputra"
-                        android:textColor="#636262"
+                        android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </LinearLayout>

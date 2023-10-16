@@ -3,9 +3,9 @@
     <style name="Base.Theme.University" parent="Theme.MaterialComponents.DayNight">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/blue</item>
-        <item name="colorPrimaryVariant">@color/blue</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" >@color/blue</item>
+
 
 
 
