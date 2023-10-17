@@ -24,7 +24,6 @@
         <item>Universitas Gadjah Mada</item>
         <item>Universitas Indonesia</item>
         <item>Universitas Diponegoro</item>
-        <item>Universitas Negeri Surabaya</item>
         <item>Universitas Negeri Jakarta</item>
         <item>Universitas Negeri Yogyakarta</item>
         <item>Unuversity Pendidikan Indonesia</item>
@@ -40,7 +39,6 @@
         <item>Universitas Gadjah Mada (UGM) adalah salah satu universitas terkemuka di Indonesia, terletak di Yogyakarta. Didirikan pada tahun 1949, UGM memiliki reputasi yang kuat dalam bidang pendidikan dan penelitian. Kampusnya yang luas dan indah, dengan arsitektur tradisional Jawa yang menawan, menciptakan lingkungan akademik yang unik. UGM menawarkan beragam program studi, termasuk ilmu sosial, teknik, kedokteran, dan humaniora. Universitas ini juga aktif dalam penelitian dan kerja sama internasional. Dengan komitmen terhadap keberlanjutan, inovasi, dan pengabdian masyarakat, UGM memainkan peran penting dalam mengembangkan ilmu pengetahuan dan mencetak generasi yang berkomitmen untuk pembangunan Indonesia.</item>
         <item>Universitas Indonesia (UI) adalah salah satu institusi pendidikan tinggi paling bergengsi di Indonesia, terletak di Depok, Jawa Barat. Didirikan pada tahun 1849, UI memiliki warisan sejarah yang kaya dan reputasi yang kuat dalam pendidikan, penelitian, dan pengabdian masyarakat. Kampusnya yang luas dan modern menciptakan atmosfer belajar yang dinamis dan inklusif. UI menawarkan berbagai program studi di berbagai bidang, termasuk ilmu sosial, ilmu alam, teknik, kedokteran, dan humaniora. Universitas ini dikenal atas kontribusinya dalam penelitian dan pengembangan, serta kerja sama internasional yang luas. UI terus berperan penting dalam perkembangan ilmu pengetahuan dan pembangunan Indonesia.</item>
         <item>Universitas Diponegoro (Undip) adalah salah satu perguruan tinggi terkemuka di Indonesia, terletak di Semarang, Jawa Tengah. Undip didirikan pada tahun 1957 dan memiliki sejarah yang kaya serta reputasi akademik yang kuat. Kampusnya yang luas dan modern menawarkan fasilitas terbaik untuk pembelajaran dan penelitian. Undip menawarkan berbagai program studi di berbagai bidang, termasuk ilmu alam, ilmu sosial, teknik, dan kedokteran. Universitas ini aktif dalam penelitian, pengabdian masyarakat, dan kerja sama industri. Undip memainkan peran penting dalam pengembangan ilmu pengetahuan dan ekonomi di Jawa Tengah dan seluruh Indonesia.</item>
-        <item>Universitas Negeri Surabaya (Unesa) adalah lembaga pendidikan tinggi yang terletak di Surabaya, Jawa Timur, Indonesia. Unesa didirikan pada tahun 1964 dan telah berkembang menjadi salah satu universitas negeri terkemuka di wilayah tersebut. Kampusnya yang luas dan modern menciptakan lingkungan belajar yang kondusif. Unesa menawarkan berbagai program studi di berbagai bidang, termasuk pendidikan, ilmu sosial, ilmu alam, dan seni. Universitas ini memiliki fokus yang kuat pada pengembangan pendidikan dan penelitian yang relevan dengan kebutuhan masyarakat dan industri di wilayah Jawa Timur. Dengan kontribusi aktif dalam bidang pendidikan dan pengembangan, Unesa memainkan peran penting dalam pembangunan wilayahnya.</item>
         <item>Universitas Negeri Jakarta (UNJ) adalah lembaga pendidikan tinggi yang terletak di Jakarta, ibu kota Indonesia. Didirikan pada tahun 1964, UNJ adalah salah satu universitas negeri terkemuka di wilayah tersebut. Kampusnya yang modern dan berlokasi strategis menyediakan lingkungan belajar yang memadai. UNJ menawarkan berbagai program studi di berbagai bidang, termasuk pendidikan, ilmu sosial, ilmu alam, dan humaniora. Universitas ini memiliki komitmen kuat terhadap pengembangan sumber daya manusia yang berkualitas dan berkontribusi dalam pengembangan pendidikan di Indonesia. Dengan fokus pada penelitian dan pengabdian masyarakat, UNJ memainkan peran penting dalam perkembangan sosial dan ekonomi Jakarta dan sekitarnya.</item>
         <item>Universitas Negeri Yogyakarta (UNY) adalah institusi pendidikan tinggi yang terletak di Yogyakarta, Indonesia. Didirikan pada tahun 1964, UNY memiliki warisan budaya dan sejarah yang kaya serta reputasi kuat dalam pendidikan dan penelitian. Kampus yang berlokasi di lingkungan budaya dan sejarah Yogyakarta menawarkan lingkungan belajar yang inspiratif. UNY menawarkan berbagai program studi di berbagai bidang, termasuk ilmu pendidikan, seni, ilmu sosial, dan ilmu alam. Universitas ini mengutamakan penelitian dan pengembangan ilmu pengetahuan serta berkontribusi aktif dalam pengembangan pendidikan di Indonesia. UNY memainkan peran penting dalam pertumbuhan sosial dan ekonomi Yogyakarta dan sekitarnya.</item>
         <item>University Pendidikan Indonesia (UPI), terletak di Bandung, Indonesia, adalah institusi pendidikan tinggi yang terkemuka dalam bidang pendidikan dan ilmu sosial. Berdiri pada tahun 1954, UPI telah memainkan peran penting dalam pembangunan pendidikan di Indonesia. Kampusnya yang indah menawarkan fasilitas modern dan lingkungan akademik yang memotivasi. UPI menawarkan beragam program studi, terutama dalam bidang pendidikan, sastra, ilmu sosial, dan seni. Universitas ini mendorong pengembangan pengetahuan dan keterampilan pendidikan yang relevan. Dengan komitmen terhadap penelitian, pengabdian masyarakat, dan inovasi pendidikan, UPI terus menjadi kontributor penting dalam pengembangan sistem pendidikan dan pengembangan sumber daya manusia di Indonesia.</item>
@@ -57,13 +55,10 @@
         <item>@drawable/ui</item>
         <item>@drawable/um</item>
         <item>@drawable/undip</item>
-        <item>@drawable/unesa</item>
-        <item>@drawable/undip</item>
         <item>@drawable/unj</item>
-        <item>@drawable/uny</item>
         <item>@drawable/upi</item>
 
     </integer-array>
 
-    
+
 </resources>
