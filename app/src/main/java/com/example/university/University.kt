@@ -1,7 +1,7 @@
 package com.example.university
 
 data class University(
-    val name: String,
-    val description: String,
-    val photo: Int
+    var name : String = "",
+    var description: String = "",
+    var photo: Int = 0
 )

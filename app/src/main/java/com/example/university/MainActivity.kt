@@ -19,25 +19,13 @@ class MainActivity : AppCompatActivity() {
         rvUniversity = findViewById(R.id.rv_University)
         rvUniversity.setHasFixedSize(true)
 
-        list.addAll(getListUniversity())
+        list.addAll(UniversityData.listData)
         showRecyclerList()
-    }
-
-    private fun getListUniversity(): ArrayList<University> {
-        val dataName = resources.getStringArray(R.array.name_univerity)
-        val dataDescription = resources.getStringArray(R.array.description_university)
-        val dataPhoto = resources.obtainTypedArray(R.array.photo_university)
-        val listHero = ArrayList<University>()
-        for (i in dataName.indices) {
-            val hero = University(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1))
-            listHero.add(hero)
-        }
-        return listHero
     }
 
     private fun showRecyclerList() {
         rvUniversity.layoutManager = LinearLayoutManager(this)
-        val listHeroAdapter = ListUniversityAdapter(list)
+        val listHeroAdapter = ListUniversityAdapter(list,this)
         rvUniversity.adapter = listHeroAdapter
     }
 
